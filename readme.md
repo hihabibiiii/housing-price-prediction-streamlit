@@ -3,6 +3,8 @@ A Machine Learning Web App to predict housing prices using the California Housin
 Model is trained using **Linear Regression** and deployed through **Streamlit UI**.
 
 ---
+## 🚀 Live Demo
+👉 https://housing-price-prediction-app-97rqhefturftywwbqd4ewb.streamlit.app/
 
 ## 🚀 Features
 - Cleaned & preprocessed housing dataset  
